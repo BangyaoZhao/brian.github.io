@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "Bangyao (Brian) Zhao",
     "section": "",
-    "text": "This is my personal website"
+    "text": "Welcome to my personal website! I am currently in my third year of pursuing a Ph.D. in Biostatistics at the University of Michigan. My academic journey revolves around a passion for developing computational-efficient Bayesian models that address real-world challenges. My doctoral dissertation is focused on non-invasive EEG-based Brain-Computer Interfaces (BCIs). When not doing research, I like playing an ancient Chinese board game 围棋 (Chinese GO)."
   },
   {
     "objectID": "about.html",
@@ -12,5 +12,19 @@
     "title": "About",
     "section": "",
     "text": "I am a human being who lives on the planet earth."
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Bangyao (Brian) Zhao",
+    "section": "Education",
+    "text": "Education\nUniversity of Michigan | Ann Arbor, MI\nPh.D. in Biostatistics | Sep.2021 — Apr.2025\nUniversity of Michigan | Ann Arbor, MI\nM.S. in Biostatistics (Health Data Science Concentration) | Sep.2019 — May.2021"
+  },
+  {
+    "objectID": "index.html#experience",
+    "href": "index.html#experience",
+    "title": "Bangyao (Brian) Zhao",
+    "section": "Experience",
+    "text": "Experience\nWengo Analytics | Head Data Scientist | April 2018 - present\nGeoScynce | Chief Analyst | Spet 2012 - April 2018"
   }
 ]
