@@ -1,0 +1,6 @@
+---
+title: "Bayesian Learning of COVID-19 Vaccine Safety"
+image: figures/covid.png
+---
+
+I love this research.

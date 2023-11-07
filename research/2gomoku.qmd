@@ -1,0 +1,8 @@
+---
+title: "Mastering the Game of Gomoku with Deep Neural Networks"
+image: figures/gomoku.png
+---
+
+I love this research.
+
+Click this [link](https://bangyaozhao.github.io/gomoku.github.io/) to play online. This is a computational-light html version of the game, which only simulates 20 times per move. A standard desktop can easily simulate over 1000 times within a few seconds.

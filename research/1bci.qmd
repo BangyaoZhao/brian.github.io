@@ -1,0 +1,6 @@
+---
+title: "Bayesian Inference on Brain-Computer Interface"
+image: figures/bci.png
+---
+
+I love this research.

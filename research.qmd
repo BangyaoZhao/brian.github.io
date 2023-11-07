@@ -1,0 +1,7 @@
+---
+title: "Research"
+listing:
+  contents: research
+  type: grid
+  sort: false
+---

@@ -1,0 +1,6 @@
+---
+title: "Peripheral immune profiles predict ALS progression"
+image: figures/als.png
+---
+
+I love this research.

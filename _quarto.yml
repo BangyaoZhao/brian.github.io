@@ -6,7 +6,7 @@ website:
   title: "Home"
   navbar:
     left:
-      - about.qmd
+      - research.qmd
 
 format:
   html:

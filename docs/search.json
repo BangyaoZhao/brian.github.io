@@ -9,9 +9,9 @@
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "About",
+    "title": "Research",
     "section": "",
-    "text": "I am a human being who lives on the planet earth."
+    "text": "Here are my research projects."
   },
   {
     "objectID": "index.html#education",
@@ -26,5 +26,54 @@
     "title": "Bangyao (Brian) Zhao",
     "section": "Experience",
     "text": "Experience\nWengo Analytics | Head Data Scientist | April 2018 - present\nGeoScynce | Chief Analyst | Spet 2012 - April 2018"
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
+    "section": "",
+    "text": "Bayesian Inference on Brain-Computer Interface\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMastering the Game of Gomoku with Deep Neural Networks\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPeripheral immune profiles predict ALS progression\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nBayesian Learning of COVID-19 Vaccine Safety\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nBayesian Image-on-Image Regression via Deep Kernel Learning based Gaussian Processes\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "research/bci.html",
+    "href": "research/bci.html",
+    "title": "Bayesian Inference on Brain-Computer Interface",
+    "section": "",
+    "text": "I love this research."
+  },
+  {
+    "objectID": "research/gomoku.html",
+    "href": "research/gomoku.html",
+    "title": "Mastering the Game of Gomoku with Deep Neural Networks",
+    "section": "",
+    "text": "I love this research."
+  },
+  {
+    "objectID": "research/covid.html",
+    "href": "research/covid.html",
+    "title": "Bayesian Learning of COVID-19 Vaccine Safety",
+    "section": "",
+    "text": "I love this research."
+  },
+  {
+    "objectID": "research/als.html",
+    "href": "research/als.html",
+    "title": "Peripheral immune profiles predict ALS progression",
+    "section": "",
+    "text": "I love this research."
+  },
+  {
+    "objectID": "research/image.html",
+    "href": "research/image.html",
+    "title": "Bayesian Image-on-Image Regression via Deep Kernel Learning based Gaussian Processes",
+    "section": "",
+    "text": "I love this research."
+  },
+  {
+    "objectID": "research/2gomoku.html",
+    "href": "research/2gomoku.html",
+    "title": "Mastering the Game of Gomoku with Deep Neural Networks",
+    "section": "",
+    "text": "I love this research.\nClick this link to play online. This is a computational-light html version of the game, which only simulates 20 times per move. A standard desktop can easily simulate over 1000 times within a few seconds."
   }
 ]
