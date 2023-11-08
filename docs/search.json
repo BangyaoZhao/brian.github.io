@@ -75,5 +75,33 @@
     "title": "Mastering the Game of Gomoku with Deep Neural Networks",
     "section": "",
     "text": "I love this research.\nClick this link to play online. This is a computational-light html version of the game, which only simulates 20 times per move. A standard desktop can easily simulate over 1000 times within a few seconds."
+  },
+  {
+    "objectID": "research/4covid.html",
+    "href": "research/4covid.html",
+    "title": "Bayesian Learning of COVID-19 Vaccine Safety",
+    "section": "",
+    "text": "I love this research."
+  },
+  {
+    "objectID": "research/1bci.html",
+    "href": "research/1bci.html",
+    "title": "Bayesian Inference on Brain-Computer Interface",
+    "section": "",
+    "text": "I love this research."
+  },
+  {
+    "objectID": "research/3als.html",
+    "href": "research/3als.html",
+    "title": "Peripheral immune profiles predict ALS progression",
+    "section": "",
+    "text": "I love this research."
+  },
+  {
+    "objectID": "research/5image.html",
+    "href": "research/5image.html",
+    "title": "Bayesian Image-on-Image Regression via Deep Kernel Learning based Gaussian Processes",
+    "section": "",
+    "text": "I love this research."
   }
 ]

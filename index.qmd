@@ -1,8 +1,8 @@
 ---
 title: "Bangyao (Brian) Zhao"
 about:
-  template: trestles
-  image: me.png
+  template: marquee
+  image: me.JPG
   links:
     - icon: github
       text: Github
