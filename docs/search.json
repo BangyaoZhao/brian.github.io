@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "Bangyao (Brian) Zhao",
     "section": "",
-    "text": "Welcome to my personal website! I am currently in my third year of pursuing a Ph.D. in Biostatistics at the University of Michigan. My academic journey revolves around a passion for developing computational-efficient Bayesian models that address real-world challenges. My doctoral dissertation is focused on non-invasive EEG-based Brain-Computer Interfaces (BCIs). When not doing research, I like playing an ancient Chinese board game 围棋 (Chinese GO)."
+    "text": "Welcome to my personal website! I am currently in my third year of pursuing a Ph.D. in Biostatistics at the University of Michigan. My academic journey revolves around a passion for developing computational-efficient Bayesian models that address real-world challenges. My doctoral dissertation is focused on non-invasive EEG-based Brain-Computer Interfaces (BCIs)."
   },
   {
     "objectID": "about.html",
@@ -30,7 +30,7 @@
   {
     "objectID": "research.html",
     "href": "research.html",
-    "title": "Research",
+    "title": "Home",
     "section": "",
     "text": "Bayesian Inference on Brain-Computer Interface\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMastering the Game of Gomoku with Deep Neural Networks\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPeripheral immune profiles predict ALS progression\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nBayesian Learning of COVID-19 Vaccine Safety\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nBayesian Image-on-Image Regression via Deep Kernel Learning based Gaussian Processes\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
   },
@@ -74,7 +74,7 @@
     "href": "research/2gomoku.html",
     "title": "Mastering the Game of Gomoku with Deep Neural Networks",
     "section": "",
-    "text": "I love this research.\nClick this link to play online. This is a computational-light html version of the game, which only simulates 20 times per move. A standard desktop can easily simulate over 1000 times within a few seconds."
+    "text": "In this project, I’ve implemented Monte Carlo Tree Search (MCTS) in a simplified version of the game Gomoku, coupled with an image-to-image prediction neural network to guide the tree-search. This venture into machine learning was inspired by my interest in Chinese Go and the great work of Google’s AlphaGo in 2016.\nDiscover more about this project on my Github, or experience the game through this online link. I developed the game’s GUI using Pygame, creating a lightweight HTML version that performs a limited number of simulations per move for a more accessible gaming experience."
   },
   {
     "objectID": "research/4covid.html",
@@ -88,7 +88,7 @@
     "href": "research/1bci.html",
     "title": "Bayesian Inference on Brain-Computer Interface",
     "section": "",
-    "text": "I love this research."
+    "text": "We have developed an advanced Bayesian model designed to enhance the P300 brain-computer interface (BCI) for patients with Amyotrophic Lateral Sclerosis (ALS). [GitHub Link]\n \nThe two figures illustrate the P300 BCI design. In this setup, a participant focuses on a specific character within a \\(6\\times6\\) virtual keyboard. The keyboard’s rows and columns flash in a random sequence. The participant is tasked with mentally responding to the flash that occurs on their chosen character. Throughout this process, we collect EEG signals to monitor the participant’s responses to each flash. The algorithm is designed to discern which flashes cover the target character. By accurately determining the correct row and column, we can determine the target character at their intersection.\nOne of the primary innovations of our model lies in its capacity to condense EEG data from multiple electrodes into a single ``latent” channel. This technique effectively mitigates spatial correlations and diminishes noises from various electrode locations. Additionally, we’ve integrated a cutting-edge Gaussian process prior, which is for preserving time continuity within the model.\nOur team has developed a highly efficient, gradient-based variational inference algorithm, using TensorFlow Probability. We’ve released a user-friendly Python module on Github, designed to facilitate access and application of our model."
   },
   {
     "objectID": "research/3als.html",
@@ -103,5 +103,47 @@
     "title": "Bayesian Image-on-Image Regression via Deep Kernel Learning based Gaussian Processes",
     "section": "",
     "text": "I love this research."
+  },
+  {
+    "objectID": "index.html#programming-tools",
+    "href": "index.html#programming-tools",
+    "title": "Bangyao (Brian) Zhao",
+    "section": "Programming & Tools",
+    "text": "Programming & Tools\n\nPython:\n\nLibraries: TensorFlow, PyTorch, Matplotlib, Pandas, Pygame\n\nR:\n\nPackages: ggplot2, dplyr, tidyr, R Shiny, R Package\n\nSQL:\n\nData Querying\n\nLinux:\n\nSkills: Shell Scripting, System Operations\nRelated Tools: Slurm (Parallel Computing)\n\nGit:\n\nVersion Control"
+  },
+  {
+    "objectID": "index.html#programming-skills",
+    "href": "index.html#programming-skills",
+    "title": "Bangyao (Brian) Zhao",
+    "section": "Programming Skills",
+    "text": "Programming Skills\n\nPython (Advanced Proficiency):\n\nDeep knowledge and extensive experience in libraries such as TensorFlow, PyTorch, Matplotlib, Pandas, and Pygame.\n\nR (Advanced Proficiency):\n\nHighly skilled in using packages like ggplot2, dplyr and tidyverse.\nExperienced in designing and deploying interactive web applications with R Shiny.\nProficient in developing and maintaining R packages.\n\nSQL:\n\nSpecialized in Data Querying.\n\nLinux:\n\nCompetent in Shell Scripting and System Operations.\nFamiliar with Slurm for Parallel Computing.\n\nGit:\n\nExperienced in Version Control and collaborative software development."
+  },
+  {
+    "objectID": "index.html#skills",
+    "href": "index.html#skills",
+    "title": "Bangyao (Brian) Zhao",
+    "section": "Skills",
+    "text": "Skills\n\nPythonRSQLOther Skills\n\n\n(Advanced Proficiency)\n\nDeep knowledge and extensive experience in libraries such as TensorFlow, PyTorch, Matplotlib, Pandas, and Pygame.\n\n\n\n(Advanced Proficiency)\n\nHighly skilled in using packages like ggplot2, dplyr and tidyverse.\nExperienced in designing and deploying interactive web applications with R Shiny.\nProficient in developing and maintaining R packages.\n\n\n\n\nSpecialized in Data Querying.\n\n\n\n\nLinux:\n\nCompetent in Shell Scripting and System Operations.\nFamiliar with Slurm for Parallel Computing.\n\nGit:\n\nExperienced in Version Control and collaborative software development."
+  },
+  {
+    "objectID": "index.html#accomplishments",
+    "href": "index.html#accomplishments",
+    "title": "Bangyao (Brian) Zhao",
+    "section": "Accomplishments",
+    "text": "Accomplishments\n\nJSM 2023 Student Paper Award (Biometrics Section) Link"
+  },
+  {
+    "objectID": "publication.html",
+    "href": "publication.html",
+    "title": "Home",
+    "section": "",
+    "text": "References\n\n1. Zhao B, Huggins JE, Kang J. Bayesian inference on brain-computer interface using the GLASS model. arXiv preprint arXiv:230407401. 2023.\n\n\n2. Zhou Y, Wang L, Zhang L, Shi L, Yang K, He J, et al. A spatiotemporal epidemiological prediction model to inform county-level COVID-19 risk in the united states. 2020.\n\n\n3. Zhao B, Zhong Y, Kang J, Zhao L. Bayesian learning of covid-19 vaccine safety while incorporating adverse events ontology. The Annals of Applied Statistics. 2023;17:2887–902.\n\n\n4. Zhao B, Zhao L. Mining adverse events in large frequency tables with ontology, with an application to the vaccine adverse event reporting system. Statistics in Medicine. 2023."
+  },
+  {
+    "objectID": "research/index.html",
+    "href": "research/index.html",
+    "title": "Home",
+    "section": "",
+    "text": "Bayesian Inference on Brain-Computer Interface\n\n\n\n\n\n\n\nBCI\n\n\nBayesian\n\n\n\n\n\n\n\n\n\n \n\n\n\n\n  \n\n\n\n\nMastering the Game of Gomoku with Deep Neural Networks\n\n\n\n\n\n\n\n\n\n\n \n\n\n\n\n  \n\n\n\n\nPeripheral immune profiles predict ALS progression\n\n\n\n\n\n\n\n\n\n\n \n\n\n\n\n  \n\n\n\n\nBayesian Learning of COVID-19 Vaccine Safety\n\n\n\n\n\n\n\n\n\n\n \n\n\n\n\n  \n\n\n\n\nBayesian Image-on-Image Regression via Deep Kernel Learning based Gaussian Processes\n\n\n\n\n\n\n\n\n\n\n \n\n\n\n\nNo matching items"
   }
 ]

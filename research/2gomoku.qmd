@@ -3,6 +3,8 @@ title: "Mastering the Game of Gomoku with Deep Neural Networks"
 image: figures/gomoku.png
 ---
 
-I love this research.
+In this project, I've implemented Monte Carlo Tree Search (MCTS) in a simplified version of the game Gomoku, coupled with an image-to-image prediction neural network to guide the tree-search. This venture into machine learning was inspired by my interest in Chinese Go and the great work of Google's AlphaGo in 2016.
 
-Click this [link](https://bangyaozhao.github.io/gomoku.github.io/) to play online. This is a computational-light html version of the game, which only simulates 20 times per move. A standard desktop can easily simulate over 1000 times within a few seconds.
+Discover more about this project on my [Github](https://github.com/BangyaoZhao/gomoku), or experience the game through this online [link](https://bangyaozhao.github.io/gomoku.github.io/). I developed the game's GUI using Pygame, creating a lightweight HTML version that performs a limited number of simulations per move for a more accessible gaming experience.
+
+![](figures/gomoku_gui.png){width="70%"}

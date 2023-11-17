@@ -1,6 +1,17 @@
 ---
 title: "Bayesian Inference on Brain-Computer Interface"
 image: figures/bci.png
+categories:
+  - BCI
+  - Bayesian
 ---
 
-I love this research.
+We have developed an advanced Bayesian model designed to enhance the P300 brain-computer interface (BCI) for patients with Amyotrophic Lateral Sclerosis (ALS). [\[GitHub Link\]](https://github.com/BangyaoZhao/GLASS)
+
+![](figures/p300_design.png){width="70%"} ![](figures/P300_animation.gif){width="70%"}
+
+The two figures illustrate the P300 BCI design. In this setup, a participant focuses on a specific character within a $6\times6$ virtual keyboard. The keyboard's rows and columns flash in a random sequence. The participant is tasked with mentally responding to the flash that occurs on their chosen character. Throughout this process, we collect EEG signals to monitor the participant's responses to each flash. The algorithm is designed to discern which flashes cover the target character. By accurately determining the correct row and column, we can determine the target character at their intersection.
+
+One of the primary innovations of our model lies in its capacity to condense EEG data from multiple electrodes into a single \`\`latent" channel. This technique effectively mitigates spatial correlations and diminishes noises from various electrode locations. Additionally, we've integrated a cutting-edge Gaussian process prior, which is for preserving time continuity within the model.
+
+Our team has developed a highly efficient, gradient-based variational inference algorithm, using TensorFlow Probability. We've released a user-friendly Python module on Github, designed to facilitate access and application of our model.

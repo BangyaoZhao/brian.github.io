@@ -1,0 +1,9 @@
+---
+bibliography: references.bib
+csl: biomed-central.csl
+nocite: |
+  @zhao2023bayesianbci
+  @zhao2023mining
+  @zhao2022bayesiancovid
+  @zhou2020spatiotemporal
+---

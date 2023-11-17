@@ -60,6 +60,8 @@ ul.task-list li input[type="checkbox"] {
   }
 }</script>
 
+  <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
 
 <link rel="stylesheet" href="../styles.css">
 </head>
@@ -82,8 +84,12 @@ ul.task-list li input[type="checkbox"] {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link" href="../research.html" rel="" target="">
+    <a class="nav-link" href="../research/index.html" rel="" target="">
  <span class="menu-text">Research</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../publication.html" rel="" target="">
+ <span class="menu-text">Publication</span></a>
   </li>  
 </ul>
             <div class="quarto-navbar-tools ms-auto">
@@ -93,19 +99,23 @@ ul.task-list li input[type="checkbox"] {
     </nav>
 </header>
 <!-- content -->
-<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar zindex-bottom">
         
     </div>
 <!-- main -->
-<main class="content" id="quarto-document-content">
+<main class="content column-page" id="quarto-document-content">
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
 <h1 class="title">Bayesian Inference on Brain-Computer Interface</h1>
-</div>
+  <div class="quarto-categories">
+    <div class="quarto-category">BCI</div>
+    <div class="quarto-category">Bayesian</div>
+  </div>
+  </div>
 
 
 
@@ -119,7 +129,11 @@ ul.task-list li input[type="checkbox"] {
 
 </header>
 
-<p>I love this research.</p>
+<p>We have developed an advanced Bayesian model designed to enhance the P300 brain-computer interface (BCI) for patients with Amyotrophic Lateral Sclerosis (ALS). <a href="https://github.com/BangyaoZhao/GLASS">[GitHub Link]</a></p>
+<p><img src="figures/p300_design.png" class="img-fluid" style="width:70.0%"> <img src="figures/P300_animation.gif" class="img-fluid" style="width:70.0%"></p>
+<p>The two figures illustrate the P300 BCI design. In this setup, a participant focuses on a specific character within a <span class="math inline">\(6\times6\)</span> virtual keyboard. The keyboard’s rows and columns flash in a random sequence. The participant is tasked with mentally responding to the flash that occurs on their chosen character. Throughout this process, we collect EEG signals to monitor the participant’s responses to each flash. The algorithm is designed to discern which flashes cover the target character. By accurately determining the correct row and column, we can determine the target character at their intersection.</p>
+<p>One of the primary innovations of our model lies in its capacity to condense EEG data from multiple electrodes into a single ``latent” channel. This technique effectively mitigates spatial correlations and diminishes noises from various electrode locations. Additionally, we’ve integrated a cutting-edge Gaussian process prior, which is for preserving time continuity within the model.</p>
+<p>Our team has developed a highly efficient, gradient-based variational inference algorithm, using TensorFlow Probability. We’ve released a user-friendly Python module on Github, designed to facilitate access and application of our model.</p>
 
 
 
