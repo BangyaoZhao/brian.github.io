@@ -1,6 +1,20 @@
 ---
 title: "Bayesian Learning of COVID-19 Vaccine Safety"
 image: figures/covid.png
+categories:
+  - Bayesian
 ---
 
-I love this research.
+In the COVID-19 pandemic, as a researcher at the University of Michigan, I embarked on a project that stood at the intersection of public health urgency and statistical innovation. My work, titled "Bayesian Learning of COVID-19 Vaccine Safety," was driven by a critical need: to bolster public confidence in the rapidly developed COVID-19 vaccines.
+
+We focus on the Vaccine Adverse Event Reporting System (VAERS), a database with a large number of reports, but with noise and potential over-reporting issues. Recognizing the intricate relationships between different adverse events (AEs), I realized that existing statistical methods fell short in capturing this complexity. It was here that the idea for the Bayesian graph-assisted signal selection (BGrass) model took root.
+
+BGrass was a pioneering approach, the first of its kind to integrate AE ontology into vaccine-AE disproportionality analyses. The model wasn't just another statistical tool; it was a novel lens through which the interconnected web of AEs could be viewed and understood. With BGrass, we could simultaneously evaluate the risk of all AEs while acknowledging their interdependencies under a logistic regression framework.
+
+![](figures/covid_flu_new.png){width="70%"}
+
+One of the most challenging aspects was mitigating reporting bias. To address this, I proposed a negative control approach, coupled with an enrichment method to pinpoint AE groups warranting attention. The computational backbone of BGrass was an efficient Gibbs sampler, utilizing Pólya-gamma data augmentation --- a method I meticulously developed and made accessible through an [R package](https://github.com/BangyaoZhao/BGrass).
+
+But what did all this mean in practical terms? By applying BGrass to over a million VAERS reports, we weren't just crunching numbers; we were identifying real signals amid the cacophony of data. We pinpointed eight AEs specifically related to COVID-19 vaccines, enhancing our understanding of post-vaccination safety. The accuracy of our estimations of log-odds ratios improved significantly --- by up to 35% when abundant ontology information was available.
+
+This journey with BGrass was more than a research project; it was a testament to the power of statistical ingenuity in addressing pressing public health challenges. As the world grappled with the uncertainties of a new disease and its vaccines, our work offered a beacon of clarity, contributing to the global effort to ensure vaccine safety and ultimately, to restore public trust in these life-saving tools.

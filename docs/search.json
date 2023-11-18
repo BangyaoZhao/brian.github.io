@@ -81,7 +81,7 @@
     "href": "research/4covid.html",
     "title": "Bayesian Learning of COVID-19 Vaccine Safety",
     "section": "",
-    "text": "I love this research."
+    "text": "In the COVID-19 pandemic, as a researcher at the University of Michigan, I embarked on a project that stood at the intersection of public health urgency and statistical innovation. My work, titled “Bayesian Learning of COVID-19 Vaccine Safety,” was driven by a critical need: to bolster public confidence in the rapidly developed COVID-19 vaccines.\nWe focus on the Vaccine Adverse Event Reporting System (VAERS), a database with a large number of reports, but with noise and potential over-reporting issues. Recognizing the intricate relationships between different adverse events (AEs), I realized that existing statistical methods fell short in capturing this complexity. It was here that the idea for the Bayesian graph-assisted signal selection (BGrass) model took root.\nBGrass was a pioneering approach, the first of its kind to integrate AE ontology into vaccine-AE disproportionality analyses. The model wasn’t just another statistical tool; it was a novel lens through which the interconnected web of AEs could be viewed and understood. With BGrass, we could simultaneously evaluate the risk of all AEs while acknowledging their interdependencies under a logistic regression framework.\n\nOne of the most challenging aspects was mitigating reporting bias. To address this, I proposed a negative control approach, coupled with an enrichment method to pinpoint AE groups warranting attention. The computational backbone of BGrass was an efficient Gibbs sampler, utilizing Pólya-gamma data augmentation — a method I meticulously developed and made accessible through an R package.\nBut what did all this mean in practical terms? By applying BGrass to over a million VAERS reports, we weren’t just crunching numbers; we were identifying real signals amid the cacophony of data. We pinpointed eight AEs specifically related to COVID-19 vaccines, enhancing our understanding of post-vaccination safety. The accuracy of our estimations of log-odds ratios improved significantly — by up to 35% when abundant ontology information was available.\nThis journey with BGrass was more than a research project; it was a testament to the power of statistical ingenuity in addressing pressing public health challenges. As the world grappled with the uncertainties of a new disease and its vaccines, our work offered a beacon of clarity, contributing to the global effort to ensure vaccine safety and ultimately, to restore public trust in these life-saving tools."
   },
   {
     "objectID": "research/1bci.html",
@@ -95,7 +95,7 @@
     "href": "research/3als.html",
     "title": "Peripheral immune profiles predict ALS progression",
     "section": "",
-    "text": "I love this research."
+    "text": "As a Research Assistant at the ALS Center of Excellence, University of Michigan, I’ve involved in a fascinating study of Amyotrophic Lateral Sclerosis (ALS). My project focuses on how peripheral immune profiles can predict the progression of ALS, measured by the ALS Functional Rating Scale-Revised (ALSFRS-R) score.\nIn collaboration with esteemed neurology experts, I applied unsupervised hierarchical clustering and LASSO-Cox regression models to the clinical dataset. These sophisticated statistical tools, often reserved for the realms of high-end data science, allowed us to unearth patterns that were not immediately apparent. My work wasn’t just about numbers and models. It was about translating these complex findings into a format that could be easily understood by the broader medical community, including those without a statistical background. Using ggplot2, a tool in R for data visualization, I crafted aesthetically pleasing and informative visuals. The implications of this study are profound. By identifying key biomarkers, we’ve taken a significant step towards enhancing the precision of prognostic models for ALS."
   },
   {
     "objectID": "research/5image.html",
@@ -123,7 +123,7 @@
     "href": "index.html#skills",
     "title": "Bangyao (Brian) Zhao",
     "section": "Skills",
-    "text": "Skills\n\nPythonRSQLOther Skills\n\n\n(Advanced Proficiency)\n\nDeep knowledge and extensive experience in libraries such as TensorFlow, PyTorch, Matplotlib, Pandas, and Pygame.\n\n\n\n(Advanced Proficiency)\n\nHighly skilled in using packages like ggplot2, dplyr and tidyverse.\nExperienced in designing and deploying interactive web applications with R Shiny.\nProficient in developing and maintaining R packages.\n\n\n\n\nSpecialized in Data Querying.\n\n\n\n\nLinux:\n\nCompetent in Shell Scripting and System Operations.\nFamiliar with Slurm for Parallel Computing.\n\nGit:\n\nExperienced in Version Control and collaborative software development."
+    "text": "Skills\n\nPythonRSQLOther Skills\n\n\n(Advanced Proficiency)\n\nDeep knowledge and extensive experience in libraries such as TensorFlow, PyTorch, Matplotlib, Pandas, and Pygame.\n\n\n\n(Advanced Proficiency)\n\nHighly skilled in using packages like ggplot2, dplyr and tidyverse.\nExperienced in designing and deploying interactive web applications with R Shiny.\nProficient in developing and maintaining R packages.\n\n\n\n\nData Querying.\n\n\n\n\nLinux:\n\nCompetent in Shell Scripting and System Operations.\nFamiliar with Slurm for Parallel Computing.\n\nGit:\n\nExperienced in Version Control and collaborative software development."
   },
   {
     "objectID": "index.html#accomplishments",
@@ -144,6 +144,6 @@
     "href": "research/index.html",
     "title": "Home",
     "section": "",
-    "text": "Bayesian Inference on Brain-Computer Interface\n\n\n\n\n\n\n\nBCI\n\n\nBayesian\n\n\n\n\n\n\n\n\n\n \n\n\n\n\n  \n\n\n\n\nMastering the Game of Gomoku with Deep Neural Networks\n\n\n\n\n\n\n\n\n\n\n \n\n\n\n\n  \n\n\n\n\nPeripheral immune profiles predict ALS progression\n\n\n\n\n\n\n\n\n\n\n \n\n\n\n\n  \n\n\n\n\nBayesian Learning of COVID-19 Vaccine Safety\n\n\n\n\n\n\n\n\n\n\n \n\n\n\n\n  \n\n\n\n\nBayesian Image-on-Image Regression via Deep Kernel Learning based Gaussian Processes\n\n\n\n\n\n\n\n\n\n\n \n\n\n\n\nNo matching items"
+    "text": "Bayesian Inference on Brain-Computer Interface\n\n\n\n\n\n\n\nBCI\n\n\nBayesian\n\n\n\n\n\n\n\n\n\n \n\n\n\n\n  \n\n\n\n\nMastering the Game of Gomoku with Deep Neural Networks\n\n\n\n\n\n\n\nMachine Learning\n\n\n\n\n\n\n\n\n\n \n\n\n\n\n  \n\n\n\n\nPeripheral immune profiles predict ALS progression\n\n\n\n\n\n\n\nMachine Learning\n\n\nLongitudinal Data\n\n\n\n\n\n\n\n\n\n \n\n\n\n\n  \n\n\n\n\nBayesian Learning of COVID-19 Vaccine Safety\n\n\n\n\n\n\n\nBayesian\n\n\n\n\n\n\n\n\n\n \n\n\n\n\nNo matching items"
   }
 ]

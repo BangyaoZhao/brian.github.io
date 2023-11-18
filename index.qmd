@@ -13,7 +13,7 @@ about:
       href: https://www.linkedin.com/in/bangyao-zhao-a28604196/
 ---
 
-Welcome to my personal website! I am currently in my third year of pursuing a Ph.D. in Biostatistics at the University of Michigan. My academic journey revolves around a passion for developing computational-efficient Bayesian models that address real-world challenges. My doctoral dissertation is focused on non-invasive EEG-based Brain-Computer Interfaces (BCIs). 
+Welcome to my personal website! I am currently in my third year of pursuing a Ph.D. in Biostatistics at the University of Michigan. My academic journey revolves around a passion for developing computational-efficient Bayesian models that address real-world challenges. My doctoral dissertation is focused on non-invasive EEG-based Brain-Computer Interfaces (BCIs).
 
 <!-- When not doing research, I like playing an ancient Chinese board game [围棋](https://en.wikipedia.org/wiki/Go_(game)) (Chinese GO). -->
 
@@ -30,32 +30,33 @@ M.S. in Biostatistics (Health Data Science Concentration) \| Sep.2019 --- May.20
 ## Skills
 
 ::: panel-tabset
-
 ### Python
+
 (Advanced Proficiency)
 
-- Deep knowledge and extensive experience in libraries such as TensorFlow, PyTorch, Matplotlib, Pandas, and Pygame.
+-   Deep knowledge and extensive experience in libraries such as TensorFlow, PyTorch, Matplotlib, Pandas, and Pygame.
 
 ### R
 
 (Advanced Proficiency)
 
-- Highly skilled in using packages like ggplot2, dplyr and tidyverse. 
-- Experienced in designing and deploying interactive web applications with R Shiny.
-- Proficient in developing and maintaining R packages.
+-   Highly skilled in using packages like ggplot2, dplyr and tidyverse.
+-   Experienced in designing and deploying interactive web applications with R Shiny.
+-   Proficient in developing and maintaining R packages.
 
 ### SQL
 
-- Specialized in Data Querying.
+-   Data Querying.
 
 ### Other Skills
-- Linux: 
-  - Competent in Shell Scripting and System Operations.
-  - Familiar with Slurm for Parallel Computing.
-- Git: 
-  - Experienced in Version Control and collaborative software development.
 
+-   Linux:
+    -   Competent in Shell Scripting and System Operations.
+    -   Familiar with Slurm for Parallel Computing.
+-   Git:
+    -   Experienced in Version Control and collaborative software development.
 :::
 
 ## Accomplishments
-- JSM 2023 Student Paper Award (Biometrics Section) [Link](https://sph.umich.edu/biostat/awards.html)
+
+-   JSM 2023 Student Paper Award (Biometrics Section) [Link](https://sph.umich.edu/biostat/awards.html)

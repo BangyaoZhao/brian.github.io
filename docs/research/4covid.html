@@ -82,8 +82,12 @@ ul.task-list li input[type="checkbox"] {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link" href="../research.html" rel="" target="">
+    <a class="nav-link" href="../research/index.html" rel="" target="">
  <span class="menu-text">Research</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../publication.html" rel="" target="">
+ <span class="menu-text">Publication</span></a>
   </li>  
 </ul>
             <div class="quarto-navbar-tools ms-auto">
@@ -93,19 +97,22 @@ ul.task-list li input[type="checkbox"] {
     </nav>
 </header>
 <!-- content -->
-<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar zindex-bottom">
         
     </div>
 <!-- main -->
-<main class="content" id="quarto-document-content">
+<main class="content column-page" id="quarto-document-content">
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
 <h1 class="title">Bayesian Learning of COVID-19 Vaccine Safety</h1>
-</div>
+  <div class="quarto-categories">
+    <div class="quarto-category">Bayesian</div>
+  </div>
+  </div>
 
 
 
@@ -119,7 +126,13 @@ ul.task-list li input[type="checkbox"] {
 
 </header>
 
-<p>I love this research.</p>
+<p>In the COVID-19 pandemic, as a researcher at the University of Michigan, I embarked on a project that stood at the intersection of public health urgency and statistical innovation. My work, titled “Bayesian Learning of COVID-19 Vaccine Safety,” was driven by a critical need: to bolster public confidence in the rapidly developed COVID-19 vaccines.</p>
+<p>We focus on the Vaccine Adverse Event Reporting System (VAERS), a database with a large number of reports, but with noise and potential over-reporting issues. Recognizing the intricate relationships between different adverse events (AEs), I realized that existing statistical methods fell short in capturing this complexity. It was here that the idea for the Bayesian graph-assisted signal selection (BGrass) model took root.</p>
+<p>BGrass was a pioneering approach, the first of its kind to integrate AE ontology into vaccine-AE disproportionality analyses. The model wasn’t just another statistical tool; it was a novel lens through which the interconnected web of AEs could be viewed and understood. With BGrass, we could simultaneously evaluate the risk of all AEs while acknowledging their interdependencies under a logistic regression framework.</p>
+<p><img src="figures/covid_flu_new.png" class="img-fluid" style="width:70.0%"></p>
+<p>One of the most challenging aspects was mitigating reporting bias. To address this, I proposed a negative control approach, coupled with an enrichment method to pinpoint AE groups warranting attention. The computational backbone of BGrass was an efficient Gibbs sampler, utilizing Pólya-gamma data augmentation — a method I meticulously developed and made accessible through an <a href="https://github.com/BangyaoZhao/BGrass">R package</a>.</p>
+<p>But what did all this mean in practical terms? By applying BGrass to over a million VAERS reports, we weren’t just crunching numbers; we were identifying real signals amid the cacophony of data. We pinpointed eight AEs specifically related to COVID-19 vaccines, enhancing our understanding of post-vaccination safety. The accuracy of our estimations of log-odds ratios improved significantly — by up to 35% when abundant ontology information was available.</p>
+<p>This journey with BGrass was more than a research project; it was a testament to the power of statistical ingenuity in addressing pressing public health challenges. As the world grappled with the uncertainties of a new disease and its vaccines, our work offered a beacon of clarity, contributing to the global effort to ensure vaccine safety and ultimately, to restore public trust in these life-saving tools.</p>
 
 
 

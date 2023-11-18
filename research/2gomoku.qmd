@@ -1,6 +1,8 @@
 ---
 title: "Mastering the Game of Gomoku with Deep Neural Networks"
 image: figures/gomoku.png
+categories:
+  - Machine Learning
 ---
 
 In this project, I've implemented Monte Carlo Tree Search (MCTS) in a simplified version of the game Gomoku, coupled with an image-to-image prediction neural network to guide the tree-search. This venture into machine learning was inspired by my interest in Chinese Go and the great work of Google's AlphaGo in 2016.
