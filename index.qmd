@@ -11,6 +11,9 @@ about:
     - icon: linkedin
       text: LinkedIn
       href: https://www.linkedin.com/in/bangyao-zhao-a28604196/
+    - icon: envelope
+      text: Email
+      href: mailto:byzhao@umich.edu
 ---
 
 Welcome to my personal website! I am currently in my third year of pursuing a Ph.D. in Biostatistics at the University of Michigan. My academic journey revolves around a passion for developing computational-efficient Bayesian models that address real-world challenges. My doctoral dissertation is focused on non-invasive EEG-based Brain-Computer Interfaces (BCIs).
