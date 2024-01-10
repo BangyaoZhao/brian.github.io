@@ -18,7 +18,13 @@ about:
 
 Welcome to my personal website! I am currently in my third year of pursuing a Ph.D. in Biostatistics at the University of Michigan. My academic journey revolves around a passion for developing computational-efficient Bayesian models that address real-world challenges. My doctoral dissertation is focused on non-invasive EEG-based Brain-Computer Interfaces (BCIs).
 
-<!-- When not doing research, I like playing an ancient Chinese board game [围棋](https://en.wikipedia.org/wiki/Go_(game)) (Chinese GO). -->
+## Interests
+
+- Brain-Computer-Interface 
+- Machine Learning 
+- Bayesian Modeling
+- Large Language Models
+- Generative AI
 
 ## Education
 
