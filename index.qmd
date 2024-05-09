@@ -20,11 +20,11 @@ Welcome to my personal website! I am currently in my third year of pursuing a Ph
 
 ## Interests
 
-- Brain-Computer-Interface 
-- Machine Learning 
-- Bayesian Modeling
-- Large Language Models
-- Generative AI
+-   Brain-Computer-Interface
+-   Machine Learning
+-   Bayesian Modeling
+-   Large Language Models
+-   Generative AI
 
 ## Education
 

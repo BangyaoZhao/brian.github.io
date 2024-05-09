@@ -6,8 +6,6 @@ website:
   title: "Home"
   navbar:
     left:
-      - text: "Research"
-        file: research/index.qmd
       - text: "Publication"
         file: publication.qmd
 
