@@ -16,15 +16,17 @@ about:
       href: mailto:byzhao@umich.edu
 ---
 
-Welcome to my personal website! I am currently in my third year of pursuing a Ph.D. in Biostatistics at the University of Michigan. My academic journey revolves around a passion for developing computational-efficient Bayesian models that address real-world challenges. My doctoral dissertation is focused on non-invasive EEG-based Brain-Computer Interfaces (BCIs).
+Welcome to my personal website!
 
-## Interests
+I received my Ph.D. in Biostatistics from the University of Michigan in 2025, under the supervision of Professor Jian Kang. My dissertation, *Bayesian Machine Learning Methods for Brain-Computer Interface Applications*, focuses on developing computationally efficient Bayesian learning and sequential decision-making methods for non-invasive EEG-based brain-computer interfaces (BCIs).
 
--   Brain-Computer-Interface
--   Machine Learning
--   Bayesian Modeling
--   Large Language Models
--   Generative AI
+## Research Interests
+
+- AI for Science (AI4S)
+- Bayesian Modeling
+- Reinforcement Learning and Sequential Decision-Making
+- Statistical and Machine Learning for Neuroimaging and Biomedical Data
+- Brain-Computer Interfaces
 
 ## Education
 
@@ -36,36 +38,30 @@ Ph.D. in Biostatistics \| Sep.2021 --- Apr.2025
 
 M.S. in Biostatistics (Health Data Science Concentration) \| Sep.2019 --- May.2021
 
-## Skills
-
-::: panel-tabset
-### Python
-
-(Advanced Proficiency)
-
--   Deep knowledge and extensive experience in libraries such as TensorFlow, PyTorch, Matplotlib, Pandas, and Pygame.
-
-### R
-
-(Advanced Proficiency)
-
--   Highly skilled in using packages like ggplot2, dplyr and tidyverse.
--   Experienced in designing and deploying interactive web applications with R Shiny.
--   Proficient in developing and maintaining R packages.
-
-### SQL
-
--   Data Querying.
-
-### Other Skills
-
--   Linux:
-    -   Competent in Shell Scripting and System Operations.
-    -   Familiar with Slurm for Parallel Computing.
--   Git:
-    -   Experienced in Version Control and collaborative software development.
-:::
-
 ## Accomplishments
 
--   JSM 2023 Student Paper Award (Biometrics Section) [Link](https://sph.umich.edu/biostat/awards.html)
+- JSM 2023 Student Paper Award (Biometrics Section) [Link](https://sph.umich.edu/biostat/awards.html)
+
+## Publications
+
+**Zhao, B.**, Wang, Y., Huggins, J. E., & Kang, J. (2026). A Bayesian reinforcement learning framework for optimizing the BCI-utility of P300 brain-computer interfaces. *The Annals of Applied Statistics*, *20*(1), 744–763. [doi:10.1214/25-AOAS2080](https://doi.org/10.1214/25-AOAS2080)
+
+Ma, G., **Zhao, B.**, Abu-Amara, H., & Kang, J. (2026). Bayesian image-on-image regression via deep kernel learning based Gaussian processes. *The Annals of Applied Statistics*, *20*(1), 536–559. [doi:10.1214/25-AOAS2108](https://doi.org/10.1214/25-AOAS2108)
+
+Lin, Z., Choi, J., Mao, R., **Zhao, B.**, & Kang, J. (2026). Spatial adaptive selection using binary conditional autoregressive model with application to brain-computer interface. *Journal of Computational and Graphical Statistics*, *35*(1), 1–12. [doi:10.1080/10618600.2025.2495256](https://doi.org/10.1080/10618600.2025.2495256)
+
+**Zhao, B.**, Huggins, J. E., & Kang, J. (2025). Bayesian inference on brain-computer interfaces via GLASS. *Journal of the American Statistical Association*, *120*(552), 2028–2039. [doi:10.1080/01621459.2025.2498088](https://doi.org/10.1080/01621459.2025.2498088)
+
+Murdock, B. J., Park, J., Jang, D.-G., **Zhao, B.**, Teener, S. J., Webber-Davis, I. F., Zhao, L., Feldman, E. L., & Goutman, S. A. (2025). In vitro modeling of natural killer cell cytotoxicity to inform personalized ALS therapeutics. *Annals of Clinical and Translational Neurology*, *12*(10), 2036–2044. [doi:10.1002/acn3.70127](https://doi.org/10.1002/acn3.70127)
+
+Murdock, B. J., **Zhao, B.**, Webber-Davis, I. F., Teener, S. J., Pawlowski, K. D., Famie, J. P., Piecuch, C. E., Jang, D. G., Feldman, E. L., Zhao, L., & Goutman, S. A. (2025). Early immune system changes in amyotrophic lateral sclerosis correlate with later disease progression. *Med*, *6*(8), 100673. [doi:10.1016/j.medj.2025.100673](https://doi.org/10.1016/j.medj.2025.100673)
+
+Murdock, B. J., **Zhao, B.**, Pawlowski, K. D., Famie, J. P., Piecuch, C. E., Webber-Davis, I. F., Teener, S. J., Feldman, E. L., Zhao, L., & Goutman, S. A. (2024). Peripheral immune profiles predict ALS progression in an age- and sex-dependent manner. *Neurology Neuroimmunology & Neuroinflammation*, *11*(3), e200241. [doi:10.1212/NXI.0000000000200241](https://doi.org/10.1212/NXI.0000000000200241)
+
+**Zhao, B.**, Zhong, Y., Kang, J., & Zhao, L. (2023). Bayesian learning of Covid-19 vaccine safety while incorporating adverse events ontology. *The Annals of Applied Statistics*, *17*(4), 2887–2902. [doi:10.1214/23-AOAS1743](https://doi.org/10.1214/23-AOAS1743)
+
+**Zhao, B.**, & Zhao, L. (2023). Mining adverse events in large frequency tables with ontology, with an application to the vaccine adverse event reporting system. *Statistics in Medicine*, *42*(10), 1512–1524. [doi:10.1002/sim.9684](https://doi.org/10.1002/sim.9684)
+
+Murdock, B., **Zhao, B.**, Raue, K., Famie, J., Piecuch, C., Feldman, E. L., Zhao, L., & Goutman, S. (2023). Change in peripheral immunity precede amyotrophic lateral sclerosis progression. *Journal of the Neurological Sciences*, *455*, 121711. [doi:10.1016/j.jns.2023.121711](https://doi.org/10.1016/j.jns.2023.121711)
+
+Zhou, Y., Wang, L., Zhang, L., Shi, L., Yang, K., He, J., **Zhao, B.**, Overton, W., Purkayastha, S., & Song, P. (2020). A spatiotemporal epidemiological prediction model to inform county-level COVID-19 risk in the United States. *Harvard Data Science Review*, Special Issue 1. [doi:10.1162/99608f92.79e1f45e](https://doi.org/10.1162/99608f92.79e1f45e)

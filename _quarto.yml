@@ -3,11 +3,8 @@ project:
   output-dir: docs
 
 website:
-  title: "Home"
-  navbar:
-    left:
-      - text: "Publication"
-        file: publication.qmd
+  title: "Bangyao (Brian) Zhao"
+  navbar: {}
 
 format:
   html:
